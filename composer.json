@@ -1,0 +1,17 @@
+{
+    "name": "yng/config",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "yng"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yng\\Config\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0"
+    }
+}
